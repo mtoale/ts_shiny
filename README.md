@@ -19,6 +19,8 @@ Data originally from [this Kaggle dataset](https://www.kaggle.com/pearlveera/wee
     * See: imagination
     * Show revenue by week instead of units
       * maybe give user option of what to plot
+    * Deploy your app to be on the internet!!! 😱😱😱
+      * https://shiny.rstudio.com/articles/shinyapps.html
 * Push your changes up to GitHub
 * You just made a mini porfolio project, make it's homepage (this README file) look nice and approachable.
   * Add a screenshot or gif to the README
