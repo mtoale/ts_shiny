@@ -11,6 +11,9 @@
   * Do something fancy
     * See: http://shinyapps.dreamrs.fr/shinyWidgets/
     * See: `plotly` package
+    * Look into other options besides our plain `fluidPage` for the UI
+      * `navbarPage()`
+      * `sidebarLayout()`
     * See: imagination
     * Show revenue by week instead of units
       * maybe give user option of what to plot
