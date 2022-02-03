@@ -1,5 +1,7 @@
 # ts_shiny
 
+Data originally from [this Kaggle dataset](https://www.kaggle.com/pearlveera/weekly-sku-level-product-sales-transactions).
+
 ### TODO:
 
 * Get the project on your git profile/machine
